@@ -31,6 +31,7 @@ User should be able to:
 - 
 
 My solution: [Here]()
+<br>
 Live site: [Here]()
 
 ### Landing Page
@@ -38,6 +39,7 @@ User should be able to:
 - 
 
 My solution: [Here](https://github.com/vinhchugg/TOP-Landing-Page)
+<br>
 Live site: [Here]()
 
 ### Rock, Paper, Scissors
@@ -45,6 +47,7 @@ User should be able to:
 - 
 
 My solution: [Here](https://github.com/vinhchugg/TOP-Rock-Paper-Scissors)
+<br>
 Live site: [Here]()
 
 ### Etch-A-Sketch
@@ -52,6 +55,7 @@ User should be able to:
 - 
 
 My solution: [Here]()
+<br>
 Live site: [Here]()
 
 ### Calculator
@@ -59,6 +63,7 @@ User should be able to:
 - 
 
 My solution: [Here]()
+<br>
 Live site: [Here]()
 
 ### Built with
