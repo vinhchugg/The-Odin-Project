@@ -74,5 +74,10 @@ My solution: [Here]()
 Live site: [Here]()
 
 ### Built with
+- HTML Semantic Elements
+- CSS Flexbox
+- CSS Gridbox
+- DOM Minipulation
 
 ### What I Learned
+Throughout all these projects, I was able to apply the knowledge and skills accquired through self-studying to be able to complete these challenging projects. I have learnt how to write clean code and the importance of refactoring code. I was also able to practice my JavaScript skills and have now become more proficient at it.
