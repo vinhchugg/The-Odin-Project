@@ -25,6 +25,7 @@ User should be able to:
 - Recreate a popular website using html and css
 
 My solution: [Here](https://github.com/vinhchugg/TOP-Google-Homepage)
+<br>
 Live site: [Here]()
 
 ### Recipes
