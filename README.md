@@ -12,21 +12,11 @@ These are all my solutions to the project challenges on The Odin Project.
 
 ## The Challenges
 ### Introductory
- - [Google Homepage](#google-homepage)
  - [Recipes](#recipes)
  - [Landing Page](#landing-page)
  - [Rock, Paper, Scissors](#rock-paper-scissors)
  - [Etch-A-Sketch](#etch-a-sketch)
  - [Calculator](#calculator)
-
-### Google Homepage
-
-The project:
-- Recreate a popular website using html and css to get it to look as similar as popular
-
-My solution: [Here](https://github.com/vinhchugg/TOP-Google-Homepage)
-<br>
-Live site: [Here]()
 
 ### Recipes
 
@@ -44,7 +34,7 @@ The project:
 
 My solution: [Here](https://github.com/vinhchugg/TOP-Landing-Page)
 <br>
-Live site: [Here]()
+Live site: [Here](https://top-landing-page-vc.netlify.app)
 
 ### Rock, Paper, Scissors
 
@@ -53,7 +43,7 @@ The project:
 
 My solution: [Here](https://github.com/vinhchugg/TOP-Rock-Paper-Scissors)
 <br>
-Live site: [Here]()
+Live site: [Here](https://top-rock-paper-scissors-vc.netlify.app)
 
 ### Etch-A-Sketch
 
@@ -62,7 +52,7 @@ The project:
 
 My solution: [Here]()
 <br>
-Live site: [Here]()
+Live site: [Here](https://top-etch-a-sketch-vc.netlify.app)
 
 ### Calculator
 
