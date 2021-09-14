@@ -21,8 +21,8 @@ These are all my solutions to the project challenges on The Odin Project.
 
 ### Google Homepage
 
-User should be able to:
-- Recreate a popular website using html and css
+The project:
+- Recreate a popular website using html and css to get it to look as similar as popular
 
 My solution: [Here](https://github.com/vinhchugg/TOP-Google-Homepage)
 <br>
@@ -30,8 +30,8 @@ Live site: [Here]()
 
 ### Recipes
 
-User should be able to:
-- 
+The project: 
+- Use html elements to create a basic recipe website.
 
 My solution: [Here]()
 <br>
@@ -39,8 +39,8 @@ Live site: [Here]()
 
 ### Landing Page
 
-User should be able to:
-- 
+The project: 
+- Create an entire web page from a design provided.
 
 My solution: [Here](https://github.com/vinhchugg/TOP-Landing-Page)
 <br>
@@ -48,8 +48,8 @@ Live site: [Here]()
 
 ### Rock, Paper, Scissors
 
-User should be able to:
-- 
+The project:
+- Make a simple implementation of grade-school classic "rock paper scissors".
 
 My solution: [Here](https://github.com/vinhchugg/TOP-Rock-Paper-Scissors)
 <br>
@@ -57,8 +57,8 @@ Live site: [Here]()
 
 ### Etch-A-Sketch
 
-User should be able to:
-- 
+The project:
+- Create a browser version of something between a sketchpad and an Etch-A-Sketch.
 
 My solution: [Here]()
 <br>
@@ -66,8 +66,8 @@ Live site: [Here]()
 
 ### Calculator
 
-User should be able to:
-- 
+The project:
+- Create an on-screen calculator using HTML, CSS, JavaScript.
 
 My solution: [Here]()
 <br>
