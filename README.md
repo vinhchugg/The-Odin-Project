@@ -12,20 +12,10 @@ These are all my solutions to the project challenges on The Odin Project.
 
 ## The Challenges
 ### Introductory
- - [Recipes](#recipes)
  - [Landing Page](#landing-page)
  - [Rock, Paper, Scissors](#rock-paper-scissors)
  - [Etch-A-Sketch](#etch-a-sketch)
  - [Calculator](#calculator)
-
-### Recipes
-
-The project: 
-- Use html elements to create a basic recipe website.
-
-My solution: [Here]()
-<br>
-Live site: [Here]()
 
 ### Landing Page
 
@@ -53,15 +43,6 @@ The project:
 My solution: [Here]()
 <br>
 Live site: [Here](https://top-etch-a-sketch-vc.netlify.app)
-
-### Calculator
-
-The project:
-- Create an on-screen calculator using HTML, CSS, JavaScript.
-
-My solution: [Here]()
-<br>
-Live site: [Here]()
 
 ### Built with
 - HTML Semantic Elements
