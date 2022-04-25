@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 2rem;
+  display: grid;
+  grid-template-rows: auto 10rem 10rem auto;
+}
+
+h1,
+.gameboard,
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gameboard {
+  flex-direction: column;
+  padding: 2rem;
+}
+
+.scores {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.winner {
+  border: 1px solid #333;
+  border-radius: 0.5rem;
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  padding: 2rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.buttons {
+  margin-top: 7rem;
+}
+
+.player-score,
+.computer-score {
+  text-align: center;
+}
