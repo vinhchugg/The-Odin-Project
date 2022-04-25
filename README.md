@@ -19,8 +19,7 @@ These are all my solutions to the project challenges on The Odin Project.
 
 ### Landing Page
 
-The project: 
-- Create an entire web page from a design provided.
+The project: Create an entire web page from a design provided.
 
 My solution: [Here](https://github.com/vinhchugg/The-Odin-Project/tree/main/Landing_Page)
 <br>
@@ -28,8 +27,7 @@ Live site: [Here](https://top-landing-page-vc.netlify.app)
 
 ### Rock, Paper, Scissors
 
-The project:
-- Make a simple implementation of grade-school classic "rock paper scissors".
+The project: Make a simple implementation of grade-school classic "rock paper scissors".
 
 My solution: [Here](https://github.com/vinhchugg/The-Odin-Project/tree/main/Rock_Paper_Scissors)
 <br>
@@ -37,8 +35,7 @@ Live site: [Here](https://top-rock-paper-scissors-vc.netlify.app)
 
 ### Etch-A-Sketch
 
-The project:
-- Create a browser version of something between a sketchpad and an Etch-A-Sketch.
+The project: Create a browser version of something between a sketchpad and an Etch-A-Sketch.
 
 My solution: [Here](https://github.com/vinhchugg/The-Odin-Project/tree/main/Etch-A-Sketch)
 <br>
